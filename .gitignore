@@ -1,0 +1,5 @@
+store/node_modules
+store/.env
+e-commerce-api/node_modules
+e-commerce-api/.env
+e-commerce-api/.git

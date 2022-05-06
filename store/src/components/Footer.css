@@ -1,0 +1,9 @@
+a:not(.links) {
+    text-decoration: none;
+    color: teal;
+}
+
+.links {
+    text-decoration: none;
+    color: white;
+}
